@@ -2,7 +2,7 @@
 
 Un servidor base para proyectos de PHP con Nginx construido con docker-compose
 
-## Como Usar ?
+## Cómo Usarlo ?
 
 Se asume que ya tienes instalado Docker y Docker-Compose.
 
